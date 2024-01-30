@@ -23,4 +23,5 @@
 | --------------------------------------- | ----------------- | -------------------------------------------------- |
 | Exercicio 001 - Console.Log             | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex001/index.js)               |
 | Exercicio 002 - Const e Let             | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex002/index.js)               |
-| Exercicio 002 - Alert, Confirm e Prompt | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex003/assets/script/index.js) |
+| Exercicio 003 - Alert, Confirm e Prompt | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex003/assets/script/index.js) |
+| Exercicio 004 - Variáveis               | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex004/index.js)               |
