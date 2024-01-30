@@ -28,4 +28,14 @@ console.log(`Potência: ${num1 ** num2}`);
 // Decremento
 // console.log(`Decrementando: ${1--}`);
 
+let contador = 0;
+const passo = 2; // STEP >> Passo
+
+contador += passo; // Incremento
+// contador *= step; // Multiplicação
+// contador -= passo; // Decremento
+// contador /= passo; // Divisão
+// contador %= passo; // Resto
+console.log(`Incrementando: ${contador}`);
+
 console.log("===================================");
