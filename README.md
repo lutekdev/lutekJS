@@ -10,10 +10,10 @@
 | ------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
 | Console.Log - A Primeira Do JS        | [Arquivo Guia](#)                           | [Arquivo JS](./js.AULAS/aula.001/main.js)          |
 | Comentários de Código                 | [Arquivo Guia](#)                           | [Arquivo JS](./js.AULAS/aula.002/index.js)         |
-| Navegador vs Node (HTML + JavaScript) | [Arquivo Guia](js.AULAS/aula.003/README.md) | [Arquivo JS](js.AULAS/aula.003/assets/js/index.js) |
+| Navegador Vs Node (HTML + JavaScript) | [Arquivo Guia](js.AULAS/aula.003/README.md) | [Arquivo JS](js.AULAS/aula.003/assets/js/index.js) |
 | Variáveis com Let                     | [Arquivo Guia](js.AULAS/aula.004/README.md) | [Arquivo JS](js.AULAS/aula.004/index.js)           |
 | Variáveis com Const                   | [Arquivo Guia](js.AULAS/aula.005/README.md) | [Arquivo JS](js.AULAS/aula.005/index.js)           |
-| Let vs Var                            | [Arquivo Guia](#)                           | [Arquivo JS](#)                                    |
+| Let Vs Var                            | [Arquivo Guia](js.AULAS/aula.006/README.md) | [Arquivo JS](js.AULAS/aula.006/index.js)           |
 
 # Sumário Completo de Exercicios
 | Titulos                     | GUIA              | .JS                                  |
