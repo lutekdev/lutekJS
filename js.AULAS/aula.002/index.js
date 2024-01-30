@@ -7,4 +7,4 @@ console.log("Hello, World");
  * Comentaários de bloco
  * Comentários Longos para Documentações de Código e outras funcionalidades.
  */
-console.log("Meu Nome é 'LutekDev'.");
+console.log("Meu Nome é 'LutekDev'.", "Vendo Comentarios de Blocos");
