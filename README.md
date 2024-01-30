@@ -8,8 +8,8 @@
 
 | Titulos                                         | GUIA                                        | .JS                                                |
 | ----------------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
-| Console.Log - A Primeira Do JS                  | [Arquivo Guia](#)                           | [Arquivo JS](./js.AULAS/aula.001/main.js)          |
-| Comentários de Código                           | [Arquivo Guia](#)                           | [Arquivo JS](./js.AULAS/aula.002/index.js)         |
+| Console.Log - A Primeira Do JS                  | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.001/index.js)           |
+| Comentários de Código                           | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.002/index.js)           |
 | Navegador Vs Node (HTML + JavaScript)           | [Arquivo Guia](js.AULAS/aula.003/README.md) | [Arquivo JS](js.AULAS/aula.003/assets/js/index.js) |
 | Variáveis com Let                               | [Arquivo Guia](js.AULAS/aula.004/README.md) | [Arquivo JS](js.AULAS/aula.004/index.js)           |
 | Variáveis com Const                             | [Arquivo Guia](js.AULAS/aula.005/README.md) | [Arquivo JS](js.AULAS/aula.005/index.js)           |
