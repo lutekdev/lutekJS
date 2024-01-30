@@ -6,8 +6,12 @@
 
 # Sumário Completo de Aulas
 
-| Titulos                        | GUIA              | .JS                                       |
-| ------------------------------ | ----------------- | ----------------------------------------- |
-| Console.Log - A Primeira Do JS | [Arquivo Guia](#) | [Arquivo JS](./js.AULAS/aula.001/main.js) |
+| Titulos                        | GUIA              | .JS                                        |
+| ------------------------------ | ----------------- | ------------------------------------------ |
+| Console.Log - A Primeira Do JS | [Arquivo Guia](#) | [Arquivo JS](./js.AULAS/aula.001/main.js)  |
+| Comentários de Código          | [Arquivo Guia](#) | [Arquivo JS](./js.AULAS/aula.002/index.js) |
 
 # Sumário Completo de Exercicios
+| Titulos                           | GUIA              | .JS                                  |
+| --------------------------------- | ----------------- | ------------------------------------ |
+| Exercicio 001 - [ Console.Log() ] | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex001/index.js) |
