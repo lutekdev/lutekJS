@@ -8,3 +8,7 @@ console.log("Hello, World");
  * Comentários Longos para Documentações de Código e outras funcionalidades.
  */
 console.log("Meu Nome é 'LutekDev'.", "Vendo Comentarios de Blocos");
+
+/*
+    Comentarios de Linhas
+*/
