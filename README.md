@@ -12,7 +12,7 @@
 | Comentários de Código                 | [Arquivo Guia](#)                           | [Arquivo JS](./js.AULAS/aula.002/index.js)         |
 | Navegador vs Node (HTML + JavaScript) | [Arquivo Guia](js.AULAS/aula.003/README.md) | [Arquivo JS](js.AULAS/aula.003/assets/js/index.js) |
 | Variáveis com Let                     | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.004/index.js)           |
-| Variáveis com Const                   | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.005/index.js)           |
+| Variáveis com Const                   | [Arquivo Guia](js.AULAS/aula.005/README.md) | [Arquivo JS](js.AULAS/aula.005/index.js)           |
 
 # Sumário Completo de Exercicios
 | Titulos                     | GUIA              | .JS                                  |
