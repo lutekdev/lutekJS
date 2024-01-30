@@ -19,7 +19,8 @@
 | Alert, Confirm e Prompt                         | [Arquivo Guia](js.AULAS/aula.009/README.md) | [Arquivo JS](js.AULAS/aula.009/assets/js/index.js) |
 
 # Sumário Completo de Exercicios
-| Titulos                     | GUIA              | .JS                                  |
-| --------------------------- | ----------------- | ------------------------------------ |
-| Exercicio 001 - Console.Log | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex001/index.js) |
-| Exercicio 002 - Const e Let | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex002/index.js) |
+| Titulos                                 | GUIA              | .JS                                                |
+| --------------------------------------- | ----------------- | -------------------------------------------------- |
+| Exercicio 001 - Console.Log             | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex001/index.js)               |
+| Exercicio 002 - Const e Let             | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex002/index.js)               |
+| Exercicio 002 - Alert, Confirm e Prompt | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex003/assets/script/index.js) |
