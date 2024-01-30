@@ -14,4 +14,4 @@
 # Sumário Completo de Exercicios
 | Titulos                           | GUIA              | .JS                                  |
 | --------------------------------- | ----------------- | ------------------------------------ |
-| Exercicio 001 - [ Console.Log() ] | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex001/index.js) |
+| Exercicio 001 - Console.Log | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex001/index.js) |
