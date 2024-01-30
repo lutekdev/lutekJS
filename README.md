@@ -16,7 +16,7 @@
 | Let Vs Var                                      | [Arquivo Guia](js.AULAS/aula.006/README.md) | [Arquivo JS](js.AULAS/aula.006/index.js)           |
 | Tipos de Dados Primitivos                       | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.007/index.js)           |
 | Operadores Aritméticos, Atribuição e Incremento | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.008/index.js)           |
-| Alert, Confirm e Prompt                         | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.009/assets/js/index.js) |
+| Alert, Confirm e Prompt                         | [Arquivo Guia](js.AULAS/aula.009/README.md) | [Arquivo JS](js.AULAS/aula.009/assets/js/index.js) |
 
 # Sumário Completo de Exercicios
 | Titulos                     | GUIA              | .JS                                  |
