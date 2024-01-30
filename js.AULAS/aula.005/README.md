@@ -1,6 +1,6 @@
 # VARIÁVEIS COM CONST
 
-- `type`
+- `typeof`
   - Metodo usado para especificar o tipo de uma variável, quando você vai debugar uma variavel e precisa saber o tipo de dados que ela é ou possui.
 
 - `const`
