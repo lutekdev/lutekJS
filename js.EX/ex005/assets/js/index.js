@@ -1,3 +1,5 @@
+// EX 05 - Strings
+
 const nomeCompleto = prompt("Digite seu nome completo:");
 
 document.body.innerHTML += `- Seu Nome Completo é: <strong>${nomeCompleto}</strong> <br>`;
