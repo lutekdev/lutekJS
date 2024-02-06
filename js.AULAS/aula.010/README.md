@@ -36,4 +36,16 @@
   - retorna uma nova string com algumas ou todas as correspondências de um padrão substituídas por um determinado caractere.
   
     - [Documentação - Replace](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+
+- `variavel.split([separator[, limit]])`
+  - Divide uma String em Array facilitando pegar palavras rapidas ou frases, usado muito em ocasiões como `body` quando se quer pegar o texto escrito numa plataforma de mensagens para criar comandos.
+    - [Documentação - Split](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+
+- `variavel.toUpperCase()`
+  - Deixa a String em Maiusculas, completamente.
+    - [Documentação - ToUpperCase](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+
+- `variavel.toLowerCase()`
+  - Deixa a String em Miniscula, completamente.
+    - [Documentação - ToLowerCase](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
 ---
