@@ -18,6 +18,8 @@
 | Operadores Aritméticos, Atribuição e Incremento | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.008/index.js)           |
 | Alert, Confirm e Prompt                         | [Arquivo Guia](js.AULAS/aula.009/README.md) | [Arquivo JS](js.AULAS/aula.009/assets/js/index.js) |
 | Mais Sobre Strings                              | [Arquivo Guia](js.AULAS/aula.010/README.md) | [Arquivo JS](js.AULAS/aula.010/index.js)           |
+| Mais Sobre Numbers                              | [Arquivo Guia](js.AULAS/aula.011/README.md) | [Arquivo JS](js.AULAS/aula.011/index.js)           |
+| Objeto Math                                     | [Arquivo Guia](js.AULAS/aula.012/README.md) | [Arquivo JS](js.AULAS/aula.012/index.js)           |
 
 # Sumário Completo de Exercicios
 | Titulos                                 | GUIA              | .JS                                                |
