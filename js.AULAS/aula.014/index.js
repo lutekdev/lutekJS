@@ -26,3 +26,8 @@ const raiz = function (n) {
 
 console.log(variavel2("LutekDev"));
 console.log(raiz(9));
+
+// Criando uma Arrow Function
+const raiz2 = (n) => n ** 0.5;
+console.log(raiz2(9));
+
