@@ -25,5 +25,10 @@
 
 ### Curiosidades
 
-> No JavaScript o úsuario pode acessar indices vázios.
+- No JavaScript o úsuario pode acessar indices vázios.
+
+- No JavaScript quando se usa `typeof` retorna para 'Array' **Object**
+    - Porem você pode verificar se é um 'Array' fazendo:
+        - `variavelArray instaceof Array`
+
 ---
