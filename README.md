@@ -21,6 +21,7 @@
 | Mais Sobre Numbers                              | [Arquivo Guia](js.AULAS/aula.011/README.md) | [Arquivo JS](js.AULAS/aula.011/index.js)           |
 | Objeto Math                                     | [Arquivo Guia](js.AULAS/aula.012/README.md) | [Arquivo JS](js.AULAS/aula.012/index.js)           |
 | Arrays Básicos                                  | [Arquivo Guia](js.AULAS/aula.013/README.md) | [Arquivo JS](js.AULAS/aula.013/index.js)           |
+| Funções (Básico)                                | [Arquivo Guia](js.AULAS/aula.014/README.md) | [Arquivo JS](js.AULAS/aula.014/index.js)           |
 
 # Sumário Completo de Exercicios
 
