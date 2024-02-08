@@ -10,4 +10,3 @@ const alunos = ["Luiz", "Maria", "João"];
 
 // alunos[0] = "Eduardo"
 // console.log(alunos)
-

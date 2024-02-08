@@ -8,8 +8,8 @@
 
 | Titulos                                         | GUIA                                        | .JS                                                |
 |-------------------------------------------------|---------------------------------------------|----------------------------------------------------|
-| Console.Log - A Primeira Do JS                  | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.001/index.js)           |
-| Comentários de Código                           | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.002/index.js)           |
+| Console.Log - A Primeira Do JS                  | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.001/index.js)           |
+| Comentários de Código                           | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.002/index.js)           |
 | Navegador Vs Node (HTML + JavaScript)           | [Arquivo Guia](js.AULAS/aula.003/README.md) | [Arquivo JS](js.AULAS/aula.003/assets/js/index.js) |
 | Variáveis com Let                               | [Arquivo Guia](js.AULAS/aula.004/README.md) | [Arquivo JS](js.AULAS/aula.004/index.js)           |
 | Variáveis com Const                             | [Arquivo Guia](js.AULAS/aula.005/README.md) | [Arquivo JS](js.AULAS/aula.005/index.js)           |
@@ -21,15 +21,15 @@
 | Mais Sobre Numbers                              | [Arquivo Guia](js.AULAS/aula.011/README.md) | [Arquivo JS](js.AULAS/aula.011/index.js)           |
 | Objeto Math                                     | [Arquivo Guia](js.AULAS/aula.012/README.md) | [Arquivo JS](js.AULAS/aula.012/index.js)           |
 | Arrays Básicos                                  | [Arquivo Guia](js.AULAS/aula.013/README.md) | [Arquivo JS](js.AULAS/aula.013/index.js)           |
-| Funções (Básico)                                | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.014/index.js)           |
+| Funções (Básico)                                | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.014/index.js)           |
 
-# Sumário Completo de Exercicios
+# Sumário Completo de Exercícios
 
-| Titulos                                 | GUIA              | .JS                                                |
-|-----------------------------------------|-------------------|----------------------------------------------------|
-| Exercicio 001 - Console.Log             | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex001/index.js)               |
-| Exercicio 002 - Const e Let             | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex002/index.js)               |
-| Exercicio 003 - Alert, Confirm e Prompt | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex003/assets/script/index.js) |
-| Exercicio 004 - Variáveis               | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex004/index.js)               |
-| Exercicio 004 - Strings                 | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex005/assets/js/index.js)     |
-| Exercicio 005 - Numbers e Math          | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex006/assets/js/index.js)     |
+| Titulos                                 | GUIA             | .JS                                                |
+|-----------------------------------------|------------------|----------------------------------------------------|
+| Exercicio 001 - Console.Log             | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex001/index.js)               |
+| Exercicio 002 - Const e Let             | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex002/index.js)               |
+| Exercicio 003 - Alert, Confirm e Prompt | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex003/assets/script/index.js) |
+| Exercicio 004 - Variáveis               | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex004/index.js)               |
+| Exercicio 004 - Strings                 | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex005/assets/js/index.js)     |
+| Exercicio 005 - Numbers e Math          | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex006/assets/js/index.js)     |
