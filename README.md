@@ -7,7 +7,7 @@
 # Sumário Completo de Aulas
 
 | ID  | Titulos                                         | GUIA                                        | .JS                                                |
-|-----|-------------------------------------------------|---------------------------------------------|----------------------------------------------------|
+| --- | ----------------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
 | 001 | Console.Log - A Primeira Do JS                  | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.001/index.js)           |
 | 002 | Comentários de Código                           | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.002/index.js)           |
 | 003 | Navegador Vs Node (HTML + JavaScript)           | [Arquivo Guia](js.AULAS/aula.003/README.md) | [Arquivo JS](js.AULAS/aula.003/assets/js/index.js) |
@@ -23,15 +23,17 @@
 | 013 | Arrays Básicos                                  | [Arquivo Guia](js.AULAS/aula.013/README.md) | [Arquivo JS](js.AULAS/aula.013/index.js)           |
 | 014 | Funções (Básico)                                | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.014/index.js)           |
 | 015 | Objetos (Básico)                                | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.015/index.js)           |
-| 015 | Valores Primitivos e Valores por referência     | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.016/index.js)           |
+| 016 | Valores Primitivos e Valores por referência     | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.016/index.js)           |
+| 017 | Operadores de Comparação                        | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.017/index.js)           |
 
 # Sumário Completo de Exercícios
 
 | Titulos                                 | GUIA             | .JS                                                |
-|-----------------------------------------|------------------|----------------------------------------------------|
+| --------------------------------------- | ---------------- | -------------------------------------------------- |
 | Exercício 001 - Console.Log             | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex001/index.js)               |
 | Exercício 002 - Const e Let             | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex002/index.js)               |
 | Exercício 003 - Alert, Confirm e Prompt | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex003/assets/script/index.js) |
 | Exercício 004 - Variáveis               | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex004/index.js)               |
-| Exercício 0  04 - Strings               | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex005/assets/js/index.js)     |
-| Exercício 005 - Numbers e Math          | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex006/assets/js/index.js)     |
+| Exercício 005 - Strings                 | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex005/assets/js/index.js)     |
+| Exercício 006 - Numbers e Math          | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex006/assets/js/index.js)     |
+| Exercício 007 - Função, Array e Objetos | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex007/assets/js/index.js)     |
