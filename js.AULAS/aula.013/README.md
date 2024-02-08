@@ -12,3 +12,18 @@
 
 - `variavelArray.pop()`
     - Remove o último elemento do **`Array`** na qual foi adicionado.
+    - O **`pop`** permite que o usuario salve o que foi removido.
+        - `const removido = variavelArray.pop()`
+
+- `variavelArray.shift()`
+    - Usado para remover o primeiro **`elemento`** do Array.
+    - O **`shift`** permite que o usuario salve o que foi removido.
+        - `const removido = variavelArray.shift()`
+
+- `delete variavelArray[indice]`
+    - Usado para apagar um **`Elemento`** do indice escolhido, porem ao apagar esse indice ficará vázio.
+
+### Curiosidades
+
+> No JavaScript o úsuario pode acessar indices vázios.
+---
