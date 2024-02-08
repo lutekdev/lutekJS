@@ -7,7 +7,7 @@
 # Sumário Completo de Aulas
 
 | Titulos                                         | GUIA                                        | .JS                                                |
-| ----------------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
+|-------------------------------------------------|---------------------------------------------|----------------------------------------------------|
 | Console.Log - A Primeira Do JS                  | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.001/index.js)           |
 | Comentários de Código                           | [Arquivo Guia](#)                           | [Arquivo JS](js.AULAS/aula.002/index.js)           |
 | Navegador Vs Node (HTML + JavaScript)           | [Arquivo Guia](js.AULAS/aula.003/README.md) | [Arquivo JS](js.AULAS/aula.003/assets/js/index.js) |
@@ -20,10 +20,12 @@
 | Mais Sobre Strings                              | [Arquivo Guia](js.AULAS/aula.010/README.md) | [Arquivo JS](js.AULAS/aula.010/index.js)           |
 | Mais Sobre Numbers                              | [Arquivo Guia](js.AULAS/aula.011/README.md) | [Arquivo JS](js.AULAS/aula.011/index.js)           |
 | Objeto Math                                     | [Arquivo Guia](js.AULAS/aula.012/README.md) | [Arquivo JS](js.AULAS/aula.012/index.js)           |
+| Arrays Básicos                                  | [Arquivo Guia](js.AULAS/aula.013/README.md) | [Arquivo JS](js.AULAS/aula.013/index.js)           |
 
 # Sumário Completo de Exercicios
+
 | Titulos                                 | GUIA              | .JS                                                |
-| --------------------------------------- | ----------------- | -------------------------------------------------- |
+|-----------------------------------------|-------------------|----------------------------------------------------|
 | Exercicio 001 - Console.Log             | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex001/index.js)               |
 | Exercicio 002 - Const e Let             | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex002/index.js)               |
 | Exercicio 003 - Alert, Confirm e Prompt | [Arquivo Guia](#) | [Arquivo JS](./js.EX/ex003/assets/script/index.js) |
