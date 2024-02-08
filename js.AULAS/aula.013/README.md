@@ -23,7 +23,7 @@
 - `delete variavelArray[indice]`
     - Usado para apagar um **`Elemento`** do indice escolhido, porem ao apagar esse indice ficará vázio.
 
-### Curiosidades
+### 💡 Curiosidades
 
 - No JavaScript o úsuario pode acessar indices vázios.
 
