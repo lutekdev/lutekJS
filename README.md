@@ -33,5 +33,6 @@
 | Exercício 002 - Const e Let             | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex002/index.js)               |
 | Exercício 003 - Alert, Confirm e Prompt | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex003/assets/script/index.js) |
 | Exercício 004 - Variáveis               | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex004/index.js)               |
-| Exercício 0  04 - Strings               | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex005/assets/js/index.js)     |
-| Exercício 005 - Numbers e Math          | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex006/assets/js/index.js)     |
+| Exercício 005 - Strings                 | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex005/assets/js/index.js)     |
+| Exercício 006 - Numbers e Math          | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex006/assets/js/index.js)     |
+| Exercício 007 - Função, Array e Objetos | [Arquivo Guia]() | [Arquivo JS](./js.EX/ex007/assets/js/index.js)     |
