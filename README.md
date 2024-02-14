@@ -25,6 +25,7 @@
 | 015 | Objetos (Básico)                                | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.015/index.js)           |
 | 016 | Valores Primitivos e Valores por referência     | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.016/index.js)           |
 | 017 | Operadores de Comparação                        | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.017/index.js)           |
+| 018 | Operadores Lógicos                              | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.018/index.js)           |
 
 # Sumário Completo de Exercícios
 
