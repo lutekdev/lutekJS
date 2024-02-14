@@ -6,3 +6,10 @@
  * ! -> NOT -> NÃO (Negação)
  */
 
+const expressaoAnd = true && true;
+const expressaoOr = true || false;
+const expressaoNot = !true;
+
+console.log(expressaoAnd);
+console.log(expressaoOr);
+console.log(expressaoNot);
