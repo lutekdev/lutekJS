@@ -26,6 +26,7 @@
 | 016 | Valores Primitivos e Valores por referência     | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.016/index.js)           |
 | 017 | Operadores de Comparação                        | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.017/index.js)           |
 | 018 | Operadores Lógicos                              | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.018/index.js)           |
+| 019 | Avaliação de Curto Circuito (Short-Circuit)     | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/aula.019/index.js)           |
 
 # Sumário Completo de Exercícios
 
