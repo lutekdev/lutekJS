@@ -4,15 +4,14 @@
 
 ---
 
-
 # 🔗 Atalhos Rápidos
+
 | Atalhos                                     |
 | ------------------------------------------- |
 | [✓ Dicas de JavaScript](js.DICAS/README.md) |
 
-
-
 # 📚 Sumário Completo de Aulas - Matheus Battisti
+
 | ID  | Titulos                                   | GUIA               | .JS                                                                      |
 | --- | ----------------------------------------- | ------------------ | ------------------------------------------------------------------------ |
 | 001 | O Que é JavaScript?                       | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml)  |
@@ -28,13 +27,17 @@
 | 011 | Comparações Com Boolean                   | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.011/assets/js/app.js) |
 | 012 | Operadores Lógicos: Teoria + Pratica      | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.012/assets/js/app.js) |
 | 013 | Conhecendo os Empty Values                | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.013/assets/js/app.js) |
-| 013 |                                           | [✘ Arquivo Guia]() | [✓ Arquivo JS]()                                                         |
+| 014 |                                           | [✘ Arquivo Guia]() | [✓ Arquivo JS]()                                                         |
 
 # ⭐ Sumário Completo de Exercícios - Matheus Battisti
 
-| Titulos | GUIA               | .JS              |
-| ------- | ------------------ | ---------------- |
-|         | [✘ Arquivo Guia]() | [✘ Arquivo JS]() |
+| ID  | Titulos       | GUIA               | .JS                                                                               |
+| --- | ------------- | ------------------ | --------------------------------------------------------------------------------- |
+| 001 | Exercicio 001 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.001/assets/js/script.js) |
+| 002 | Exercicio 002 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.002/assets/js/script.js) |
+| 003 | Exercicio 003 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.003/assets/js/script.js) |
+| 004 | Exercicio 004 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.004/assets/js/script.js) |
+| 005 | Exercicio 005 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.005/assets/js/script.js) |
 
 # 📚 Sumário Completo de Aulas - Otavio Miranda
 
@@ -60,11 +63,11 @@
 
 # ⭐ Sumário Completo de Exercícios - Otavio Miranda
 
-| Titulos                                 | GUIA               | .JS                                                                   |
-| --------------------------------------- | ------------------ | --------------------------------------------------------------------- |
-| Exercício 001 - Console.Log             | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex001/index.js)               |
-| Exercício 002 - Const e Let             | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex002/index.js)               |
-| Exercício 003 - Alert, Confirm e Prompt | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex003/assets/script/index.js) |
-| Exercício 004 - Variáveis               | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex004/index.js)               |
-| Exercício 005 - Strings                 | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex005/assets/js/index.js)     |
-| Exercício 006 - Numbers e Math          | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex006/assets/js/index.js)     |
+| ID  | Titulos                                 | GUIA               | .JS                                                                   |
+| --- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- |
+| 001 | Exercício 001 - Console.Log             | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex001/index.js)               |
+| 002 | Exercício 002 - Const e Let             | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex002/index.js)               |
+| 003 | Exercício 003 - Alert, Confirm e Prompt | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex003/assets/script/index.js) |
+| 004 | Exercício 004 - Variáveis               | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex004/index.js)               |
+| 005 | Exercício 005 - Strings                 | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex005/assets/js/index.js)     |
+| 006 | Exercício 006 - Numbers e Math          | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex006/assets/js/index.js)     |

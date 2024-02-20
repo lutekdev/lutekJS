@@ -1,0 +1,3 @@
+console.log("Aspas Duplas: 'Hello, World'");
+console.log('Aspas Simples: "Hello, World"');
+console.log(`Template Literals: ${"Hello, World"}`);
