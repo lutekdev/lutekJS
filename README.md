@@ -27,7 +27,7 @@
 
 | Titulos | GUIA               | .JS            |
 | ------- | ------------------ | -------------- |
-|         | [✘ Arquivo Guia]() | [Arquivo JS]() |
+|         | [✘ Arquivo Guia]() | [✘ Arquivo JS]() |
 
 # 📚 Sumário Completo de Aulas - Otavio Miranda
 
