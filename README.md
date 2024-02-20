@@ -6,8 +6,8 @@
 
 
 # 🔗 Atalhos Rápidos
-| Atalhos                                   |
-| ----------------------------------------- |
+| Atalhos                                     |
+| ------------------------------------------- |
 | [✓ Dicas de JavaScript](js.DICAS/README.md) |
 
 
@@ -22,11 +22,12 @@
 | 005 | Tipo de Dado: Number                      | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.005/assets/js/app.js) |
 | 006 | Operações Aritméticas Com Number          | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.006/assets/js/app.js) |
 | 007 | Conhecendo os Special Numbers             | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.007/assets/js/app.js) |
+| 008 | Tipo de Dado: String                      | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.008/assets/js/app.js) |
 
 # ⭐ Sumário Completo de Exercícios - Matheus Battisti
 
-| Titulos | GUIA               | .JS            |
-| ------- | ------------------ | -------------- |
+| Titulos | GUIA               | .JS              |
+| ------- | ------------------ | ---------------- |
 |         | [✘ Arquivo Guia]() | [✘ Arquivo JS]() |
 
 # 📚 Sumário Completo de Aulas - Otavio Miranda
