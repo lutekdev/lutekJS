@@ -4,7 +4,15 @@
 
 ---
 
-# 📖 Sumário Completo de Aulas - Matheus Battisti
+
+# 🔗 Atalhos Rápidos
+| Atalhos                                   |
+| ----------------------------------------- |
+| [Dicas de JavaScript](js.DICAS/README.md) |
+
+
+
+# 📚 Sumário Completo de Aulas - Matheus Battisti
 
 | ID  | Titulos                                   | GUIA             | .JS                                                                   |
 | --- | ----------------------------------------- | ---------------- | --------------------------------------------------------------------- |
@@ -18,7 +26,7 @@
 | ------- | ---------------- | -------------- |
 |         | [Arquivo Guia]() | [Arquivo JS]() |
 
-# 📖 Sumário Completo de Aulas - Otavio Miranda
+# 📚 Sumário Completo de Aulas - Otavio Miranda
 
 | ID  | Titulos                                         | GUIA                                        | .JS                                                                    |
 | --- | ----------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------- |
