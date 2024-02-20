@@ -6,9 +6,10 @@
 
 # Sumário Completo de Aulas - Matheus Battisti
 
-| ID  | Titulos             | GUIA             | .JS                                                                   |
-| --- | ------------------- | ---------------- | --------------------------------------------------------------------- |
-| 001 | O Que é JavaScript? | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml) |
+| ID  | Titulos                      | GUIA             | .JS                                                                   |
+| --- | ---------------------------- | ---------------- | --------------------------------------------------------------------- |
+| 001 | O Que é JavaScript?          | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml) |
+| 002 | Onde JavaScript é Utilizado? | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.002/introducao.yaml) |
 
 # Sumário Completo de Exercícios - Matheus Battisti
 
