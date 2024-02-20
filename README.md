@@ -6,9 +6,9 @@
 
 # Sumário Completo de Aulas - Matheus Battisti
 
-| ID  | Titulos | GUIA             | .JS            |
-| --- | ------- | ---------------- | -------------- |
-| 001 |         | [Arquivo Guia]() | [Arquivo JS]() |
+| ID  | Titulos             | GUIA             | .JS                                                                   |
+| --- | ------------------- | ---------------- | --------------------------------------------------------------------- |
+| 001 | O Que é JavaScript? | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml) |
 
 # Sumário Completo de Exercícios - Matheus Battisti
 
