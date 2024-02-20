@@ -11,8 +11,6 @@
 | [Compartilhar Códigos com Outros Desenvolvedores](#compartilhar-códigos-com-outros-desenvolvedores) |
 | [Como Pesquisar Problemas/Dúvidas de Códigos](#como-pesquisar-problemasdúvidas-de-códigos)          |
 
-
-
 ## Compartilhar Códigos com Outros Desenvolvedores
 - Para compartilhar códigos com outros desenvolvedores, seja em uso pessoal ou empresarial, estarei deixando o link de uma plataforma onde seus projetos ficam salvos e você pode compartilha-los com links.
   - [Clique Aqui para Conhecer A Plataforma](https://jsbin.com/?html,output)
