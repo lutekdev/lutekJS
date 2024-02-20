@@ -26,6 +26,7 @@
 | 009 | Mais Sobre Strings                        | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.009/assets/js/app.js) |
 | 010 | Tipo de Dado: Boolean                     | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.010/assets/js/app.js) |
 | 011 | Comparações Com Boolean                   | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.011/assets/js/app.js) |
+| 012 | Operadores Lógicos: Teoria                | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.012/assets/js/app.js) |
 
 # ⭐ Sumário Completo de Exercícios - Matheus Battisti
 
