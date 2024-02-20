@@ -4,7 +4,7 @@
 
 - Nesse local estarei deixando documentado dicas e macetes nas quais vai ajudar como atalho rápido e também para iniciantes.
 
-# 📖 Súmario
+# 📖 Acesso Rápido
 
 | Atalhos                                                                                             |
 | --------------------------------------------------------------------------------------------------- |
