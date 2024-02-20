@@ -22,6 +22,7 @@
 | 004 | O Que São Tipos De Dados?                 | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.004/introducao.yaml)  |
 | 005 | Tipo de Dado: Number                      | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.005/assets/js/app.js) |
 | 006 | Operações Aritméticas Com Number          | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.006/assets/js/app.js) |
+| 007 | Conhecendo os Special Numbers             | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.007/assets/js/app.js) |
 
 # ⭐ Sumário Completo de Exercícios - Matheus Battisti
 
