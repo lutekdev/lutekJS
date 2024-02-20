@@ -4,7 +4,7 @@
 
 ---
 
-# Sumário Completo de Aulas - Matheus Battisti
+# 📖 Sumário Completo de Aulas - Matheus Battisti
 
 | ID  | Titulos                                   | GUIA             | .JS                                                                   |
 | --- | ----------------------------------------- | ---------------- | --------------------------------------------------------------------- |
@@ -12,13 +12,13 @@
 | 002 | Onde JavaScript é Utilizado?              | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.002/introducao.yaml) |
 | 003 | Como Executar JS No Navegador Por Arquivo | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.003/index.html)      |
 
-# Sumário Completo de Exercícios - Matheus Battisti
+# ⭐ Sumário Completo de Exercícios - Matheus Battisti
 
 | Titulos | GUIA             | .JS            |
 | ------- | ---------------- | -------------- |
 |         | [Arquivo Guia]() | [Arquivo JS]() |
 
-# Sumário Completo de Aulas - Otavio Miranda
+# 📖 Sumário Completo de Aulas - Otavio Miranda
 
 | ID  | Titulos                                         | GUIA                                        | .JS                                                                    |
 | --- | ----------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------- |
@@ -40,7 +40,7 @@
 | 016 | Valores Primitivos e Valores por referência     | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/OtavioMiranda.Aulas/aula.016/index.js)           |
 | 017 | Operadores de Comparação                        | [Arquivo Guia]()                            | [Arquivo JS](js.AULAS/OtavioMiranda.Aulas/aula.017/index.js)           |
 
-# Sumário Completo de Exercícios - Otavio Miranda
+# ⭐ Sumário Completo de Exercícios - Otavio Miranda
 
 | Titulos                                 | GUIA             | .JS                                                                 |
 | --------------------------------------- | ---------------- | ------------------------------------------------------------------- |
