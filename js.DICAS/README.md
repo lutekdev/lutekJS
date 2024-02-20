@@ -18,5 +18,9 @@
 ## Como Pesquisar Problemas/Dúvidas de Códigos
   - Se você for novo na área de programação uma dica que dou é não fique quebrando a cabeça no código, use o Google como sua fonte de informações, de preferência use o StackOverflow como fonte de informações.
   - [Clique Aqui para Ir Ao StackOverFlow](https://stackoverflow.com/)
+  
+
+## O Que é Prettier (Dúvidas)
+  - Muita gente vê essa extensão mas não faz a minima ideia do que ela é capaz de fazer por você, basicamente o `Prettier` é uma ferramenta de formatação que auxilia o programador a deixar o estilo do código mais limpo e agradavel para trabalhar, basicamente e a formatação do seu documento, para que suas funções ou linhas de códigos fiquem alinhadas para outro programador ver e conseguir entender e poder lhe ajudar ou também você futuramente, for ver seu código e conseguir interpretar.
 
 ---
