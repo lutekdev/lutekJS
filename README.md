@@ -19,6 +19,7 @@
 | 001 | O Que é JavaScript?                       | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml) |
 | 002 | Onde JavaScript é Utilizado?              | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.002/introducao.yaml) |
 | 003 | Como Executar JS No Navegador Por Arquivo | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.003/index.html)      |
+| 004 | O Que São Tipos De Dados?                 | [Arquivo Guia]() | [Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.004/introducao.yaml) |
 
 # ⭐ Sumário Completo de Exercícios - Matheus Battisti
 

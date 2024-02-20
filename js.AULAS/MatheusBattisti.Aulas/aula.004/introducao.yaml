@@ -1,0 +1,5 @@
+O Que São Tipos de Dados:
+  - São Classificações/Categoria de um Dado.
+  - Basicamente é uma representação de um Dados:
+      - Numeros Inteiros, Reais, Booleanos, Caracteres, Texto, etc.
+      - (Number, String, Boolean, Empty Values: ["Null", "Undefined"]
