@@ -28,7 +28,7 @@
 | 012 | Operadores Lógicos: Teoria + Pratica      | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.012/assets/js/app.js) |
 | 013 | Conhecendo os Empty Values                | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.013/assets/js/app.js) |
 | 014 | O que é um Programa/Software              | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.014/introducao.yaml)  |
-| 015 | Como Salvar Valores na Memoria            | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.015/introducao.yaml)  |
+| 015 | Como Salvar Valores na Memoria            | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.015/assets/js/app.js)  |
 
 # ⭐ Sumário Completo de Exercícios - Matheus Battisti
 
