@@ -21,6 +21,6 @@
   
 
 ## O Que é Prettier (Dúvidas)
-  - Muita gente vê essa extensão mas não faz a minima ideia do que ela é capaz de fazer por você, basicamente o `Prettier` é uma ferramenta de formatação que auxilia o programador a deixar o estilo do código mais limpo e agradavel para trabalhar, basicamente e a formatação do seu documento, para que suas funções ou linhas de códigos fiquem alinhadas para outro programador ver e conseguir entender e poder lhe ajudar ou também você futuramente, for ver seu código e conseguir interpretar.
+  - Muita gente vê essa extensão mas não faz a minima ideia do que ela é capaz de fazer por você, basicamente o `Prettier` é uma ferramenta de formatação que auxilia o programador a deixar o estilo do código mais limpo e agradável para trabalhar, basicamente e a formatação do seu documento, para que suas funções ou linhas de códigos fiquem alinhadas para outro programador ver e conseguir entender e poder lhe ajudar ou também você futuramente, for ver seu código e conseguir interpretar.
 
 ---

@@ -1,11 +1,12 @@
-let nome = "LutekDev";
-console.log(nome);
-console.log(`Meu nome é ${nome}`);
+let $nome = "LutekDev";
+console.log($nome);
 
-let laranjas = 5;
-console.log(laranjas * laranjas);
+console.log(`Meu nome é ${$nome}`);
 
-console.log(typeof laranjas);
+let _laranjas = 5;
+console.log(_laranjas * _laranjas);
+
+console.log(typeof _laranjas);
 
 let color = function () {
   return Object;
