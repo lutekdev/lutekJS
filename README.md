@@ -12,7 +12,7 @@
 
 # 📚 Sumário Completo de Aulas - Matheus Battisti
 
-| ID  | Titulos                                   | GUIA               | .JS                                                                      |
+| ID  | Títulos                                   | GUIA               | .JS                                                                      |
 | --- | ----------------------------------------- | ------------------ | ------------------------------------------------------------------------ |
 | 001 | O Que é JavaScript?                       | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.001/introducao.yaml)  |
 | 002 | Onde JavaScript é Utilizado?              | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.AULAS/MatheusBattisti.Aulas/aula.002/introducao.yaml)  |
@@ -31,17 +31,17 @@
 
 # ⭐ Sumário Completo de Exercícios - Matheus Battisti
 
-| ID  | Titulos       | GUIA               | .JS                                                                               |
-| --- | ------------- | ------------------ | --------------------------------------------------------------------------------- |
-| 001 | Exercicio 001 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.001/assets/js/script.js) |
-| 002 | Exercicio 002 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.002/assets/js/script.js) |
-| 003 | Exercicio 003 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.003/assets/js/script.js) |
-| 004 | Exercicio 004 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.004/assets/js/script.js) |
-| 005 | Exercicio 005 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.005/assets/js/script.js) |
+| ID  | Títulos        | GUIA               | .JS                                                                               |
+| --- | -------------- | ------------------ | --------------------------------------------------------------------------------- |
+| 001 | Exercícios 001 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.001/assets/js/script.js) |
+| 002 | Exercícios 002 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.002/assets/js/script.js) |
+| 003 | Exercícios 003 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.003/assets/js/script.js) |
+| 004 | Exercícios 004 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.004/assets/js/script.js) |
+| 005 | Exercícios 005 | [✘ Arquivo Guia]() | [✓ Arquivo JS](js.EX/MatheusBattisti.Ex/ex.TiposDados/ex.005/assets/js/script.js) |
 
-# 📚 Sumário Completo de Aulas - Otavio Miranda
+# 📚 Sumário Completo de Aulas - Otávio Miranda
 
-| ID  | Titulos                                         | GUIA                                          | .JS                                                                      |
+| ID  | Títulos                                         | GUIA                                          | .JS                                                                      |
 | --- | ----------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------ |
 | 001 | Console.Log - A Primeira Do JS                  | [✘ Arquivo Guia]()                            | [✓ Arquivo JS](js.AULAS/OtavioMiranda.Aulas/aula.001/index.js)           |
 | 002 | Comentários de Código                           | [✘ Arquivo Guia]()                            | [✓ Arquivo JS](js.AULAS/OtavioMiranda.Aulas/aula.002/index.js)           |
@@ -61,9 +61,9 @@
 | 016 | Valores Primitivos e Valores por referência     | [✘ Arquivo Guia]()                            | [✓ Arquivo JS](js.AULAS/OtavioMiranda.Aulas/aula.016/index.js)           |
 | 017 | Operadores de Comparação                        | [✘ Arquivo Guia]()                            | [✓ Arquivo JS](js.AULAS/OtavioMiranda.Aulas/aula.017/index.js)           |
 
-# ⭐ Sumário Completo de Exercícios - Otavio Miranda
+# ⭐ Sumário Completo de Exercícios - Otávio Miranda
 
-| ID  | Titulos                                 | GUIA               | .JS                                                                   |
+| ID  | Títulos                                 | GUIA               | .JS                                                                   |
 | --- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- |
 | 001 | Exercício 001 - Console.Log             | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex001/index.js)               |
 | 002 | Exercício 002 - Const e Let             | [✘ Arquivo Guia]() | [✓ Arquivo JS](./js.EX/OtavioMiranda.Ex/ex002/index.js)               |

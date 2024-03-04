@@ -1,6 +1,6 @@
 console.log("==================================");
 
-console.log(null); // Vaslor vazio
+console.log(null); // Valor vazio
 console.log(undefined); // Valor indefinido
 
 console.log("==================================");
