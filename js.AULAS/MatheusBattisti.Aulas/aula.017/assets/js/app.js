@@ -6,4 +6,5 @@ let maiorNumero = Math.max(1, 5, 2, 3);
 let menorNumero = Math.min(1, 5, 2, 3);
 alert(`O maior número é ${maiorNumero} e o menor número é ${menorNumero}`);
 
-let numberRamd = Math.random() * 10;
+let numberRandom = Math.random() * 10;
+alert(`O número aleatório é ${numberRandom.toFixed(2)}`);
