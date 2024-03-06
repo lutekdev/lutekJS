@@ -1,0 +1,18 @@
+---
+O QUE É UM PROGRAMA/SOFTWARE:
+  - É um conjunto de declarações (statements).
+  - Statements são conjuntos de expressões (expressions).
+  - Expression é todo fragmento de código que produz valor.
+---
+
+---
+SOFTWARE TEM UM OBJETIVO:
+  - Statements 'guiam' o software para seu objetivo.
+  - Expressions são valores que os statements esperam para guiar o software.
+---
+
+---
+EXEMPLOS:
+  - Statement: "console.log(1 > 2)"
+  - Expression: 'console.log("Hello World")'
+---
